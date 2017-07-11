@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button } from 'react-bootstrap';
 import { Row, Col } from 'react-bootstrap';
 import Message from '../Message';
-import { apiUrl } from '../Utils'
+import { apiUrl } from '../Utils';
 
 class Pi extends Component {
 
